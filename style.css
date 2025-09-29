@@ -1,0 +1,60 @@
+css
+body{
+    font-style: italic;
+    margin:0;
+    padding:0;
+    background-color: deeppink;
+    background-color: lightpink;
+}
+header{
+    background-color: lightpink;
+    color: black;
+    font-style: italic;
+    text-align: center;
+    padding:20x;
+}
+#products{
+    padding: 20px
+}
+.item{
+    margin-bottom: 10x;
+}
+img{
+    width: 150px;
+    height:auto;
+    border-collapse: collapse;
+}
+table{
+    width:80%;
+    margin:auto;
+    border-collapse:collapse;
+}
+table, th,td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+footer{
+    background-color: lightpink;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+section{
+    font-style: italic;
+    color: green;
+}
+div{
+    font-style: italic;
+    color: deeppink;
+}
+ul{
+    font-style: italic;
+    color: black;
+}
+th{
+    font-style: italic;
+    color: brown;
+    font-size: medium;
+}
